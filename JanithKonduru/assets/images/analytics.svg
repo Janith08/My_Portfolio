@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 80" x="0px" y="0px">
+    <title>Engineer icon</title>
+    <desc>Engineer icon for website, application, printing, document, poster design, etc.</desc>
+    <metadata><?xpacket begin="&#65279;" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c148 79.163858, 2019/03/06-03:18:36        "/><?xpacket end="w"?></metadata>
+    <defs>
+        <linearGradient id="paint0_linear" x1="3.15333" y1="1" x2="26.6886" y2="35.0542" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#FFDB6E"/>
+            <stop offset="100%" stop-color="#FFBC5E"/>
+        </linearGradient>
+        <linearGradient id="paint1_linear" x1="2.26667" y1="0.375001" x2="27.8327" y2="36.511" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#FFDB6E"/>
+            <stop offset="100%" stop-color="#FFBC5E"/>
+        </linearGradient>
+        <linearGradient id="paint2_linear" x1="15.3714" y1="4.22906" x2="15.5472" y2="6.9288" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#FFDB6E"/>
+            <stop offset="100%" stop-color="#FFBC5E"/>
+        </linearGradient>
+        <linearGradient id="paint3_linear" x1="4.02043" y1="4.22931" x2="5.36917" y2="5.71887" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#FFDB6E"/>
+            <stop offset="100%" stop-color="#FFBC5E"/>
+        </linearGradient>
+        <linearGradient id="paint4_linear" x1="7.14543" y1="4.22931" x2="8.49417" y2="5.71887" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#FFDB6E"/>
+            <stop offset="100%" stop-color="#FFBC5E"/>
+        </linearGradient>
+        <linearGradient id="paint5_linear" x1="10.2704" y1="4.22931" x2="11.6189" y2="5.71884" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#FFDB6E"/>
+            <stop offset="100%" stop-color="#FFBC5E"/>
+        </linearGradient>
+        <linearGradient id="paint6_linear" x1="17.2521" y1="13.6301" x2="25.0143" y2="19.281" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#FFDB6E"/>
+            <stop offset="100%" stop-color="#FFBC5E"/>
+        </linearGradient>
+        <linearGradient id="paint7_linear" x1="10.1144" y1="12.8915" x2="17.4785" y2="16.3959" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#FFDB6E"/>
+            <stop offset="100%" stop-color="#FFBC5E"/>
+        </linearGradient>
+        <linearGradient id="paint8_linear" x1="25.7059" y1="12.8918" x2="33.0696" y2="16.3959" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#FFDB6E"/>
+            <stop offset="100%" stop-color="#FFBC5E"/>
+        </linearGradient>
+        <linearGradient id="paint9_linear" x1="5.08133" y1="8.13532" x2="19.9152" y2="35.2721" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#FFDB6E"/>
+            <stop offset="100%" stop-color="#FFBC5E"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <g>
+            <path fill="url(#paint0_linear)" d="M28,34H24.645A8.985,8.985,0,0,0,28,27V23h1a2.992,2.992,0,0,0,.963-5.827A11.028,11.028,0,0,0,26,9.532V8a1,1,0,0,0-2,0v.206a10.88,10.88,0,0,0-2-.785V6a2,2,0,0,0-2-2H18a2,2,0,0,0-2,2V7.421a10.88,10.88,0,0,0-2,.785V8a1,1,0,0,0-2,0V9.532a11.028,11.028,0,0,0-3.963,7.641A2.992,2.992,0,0,0,9,23H26v4a7,7,0,0,1-14,0V26a1,1,0,0,0-2,0v1a8.985,8.985,0,0,0,3.355,7H10a8.009,8.009,0,0,0-8,8v8a1,1,0,0,0,2,0V42a6.006,6.006,0,0,1,6-6h3.847l-.837,5.858a1,1,0,0,0,1.361,1.071l.7-.282a2.988,2.988,0,0,0,.818,1.484L15,53.909a1,1,0,0,0,.2.691l3,4a1,1,0,0,0,1.6,0l3-4a1,1,0,0,0,.2-.691l-.889-9.778a2.988,2.988,0,0,0,.818-1.484l.7.282a1,1,0,0,0,1.361-1.071L24.153,36H28a6.006,6.006,0,0,1,6,6V61a1,1,0,0,0,2,0V42A8.009,8.009,0,0,0,28,34ZM18,6h2l0,6H18Zm-6,6.36V13a1,1,0,0,0,2,0V10.522a8.894,8.894,0,0,1,2-1V12a2,2,0,0,0,2,2h2a2,2,0,0,0,2-2V9.52a8.894,8.894,0,0,1,2,1V13a1,1,0,0,0,2,0v-.64A9.008,9.008,0,0,1,27.944,17H10.056A9.008,9.008,0,0,1,12,12.36ZM8,20a1,1,0,0,1,1-1H29a1,1,0,0,1,0,2H9A1,1,0,0,1,8,20ZM22.766,40.429l-2.143-.857,1.714-2.142Zm-7.532,0,.429-3,1.714,2.142ZM20.919,36,19,38.4,17.081,36Zm.051,17.708L19,56.333l-1.97-2.625.794-8.726c.059,0,.116.018.176.018h2c.06,0,.117-.014.176-.018ZM21,42a1,1,0,0,1-1,1H18a1,1,0,0,1-1-1v-.123l2-.8,2,.8Z"/>
+            <path fill="url(#paint1_linear)" d="M3,53a1,1,0,0,0-1,1v7a1,1,0,0,0,2,0V54A1,1,0,0,0,3,53Z"/>
+            <circle fill="url(#paint2_linear)" cx="16" cy="25" r="1"/>
+            <circle fill="url(#paint3_linear)" cx="22" cy="25" r="1"/>
+            <path fill="url(#paint4_linear)" d="M16.555,29.168a1,1,0,0,0-1.11,1.664,6.391,6.391,0,0,0,7.11,0,1,1,0,1,0-1.11-1.664A4.4,4.4,0,0,1,16.555,29.168Z"/>
+            <path fill="url(#paint5_linear)" d="M9,44a1,1,0,0,0-1,1V61a1,1,0,0,0,2,0V45A1,1,0,0,0,9,44Z"/>
+            <path fill="url(#paint6_linear)" d="M29,44a1,1,0,0,0-1,1V61a1,1,0,0,0,2,0V45A1,1,0,0,0,29,44Z"/>
+            <circle fill="url(#paint7_linear)" cx="48" cy="49" r="1"/>
+            <circle fill="url(#paint8_linear)" cx="52" cy="49" r="1"/>
+            <circle fill="url(#paint9_linear)" cx="56" cy="49" r="1"/>
+            <path fill="url(#paint0_linear)" d="M43,50a1,1,0,0,0,0-2H41a1,1,0,0,0,0,2Z"/>
+            <circle fill="url(#paint2_linear)" cx="48" cy="41" r="1"/>
+            <circle fill="url(#paint3_linear)" cx="52" cy="41" r="1"/>
+            <circle fill="url(#paint4_linear)" cx="56" cy="41" r="1"/>
+            <path fill="url(#paint5_linear)" d="M43,42a1,1,0,0,0,0-2H41a1,1,0,0,0,0,2Z"/>
+            <path fill="url(#paint6_linear)" d="M61,28H58a1,1,0,0,0,0,2h2v6H36.643a1,1,0,0,0,0,2H60v6H39a1,1,0,0,0,0,2H60v6H39a1,1,0,0,0,0,2h5v2H41a1,1,0,0,0-1,1v1H39a1,1,0,0,0,0,2h1v1a1,1,0,0,0,1,1H53a1,1,0,0,0,1-1V60h7a1,1,0,0,0,0-2H54V57a1,1,0,0,0-1-1H50V54H61a1,1,0,0,0,1-1V29A1,1,0,0,0,61,28ZM49,58h3v2H42V58h3a1,1,0,0,0,1-1V54h2v3A1,1,0,0,0,49,58Z"/>
+            <path fill="url(#paint7_linear)" d="M32,33a1,1,0,0,0,2,0V30H54a1,1,0,0,0,0-2H33a1,1,0,0,0-1,1Z"/>
+            <circle fill="url(#paint8_linear)" cx="48" cy="33" r="1"/>
+            <circle fill="url(#paint9_linear)" cx="52" cy="33" r="1"/>
+            <path fill="url(#paint0_linear)" d="M37,32a1,1,0,0,0,0,2h6a1,1,0,0,0,0-2Z"/>
+            <circle fill="url(#paint1_linear)" cx="48" cy="25" r="1"/>
+            <path fill="url(#paint2_linear)" d="M50.828,23.172a1,1,0,0,0,.707-1.707,5,5,0,0,0-7.07,0,1,1,0,1,0,1.414,1.414,3.072,3.072,0,0,1,4.242,0A1,1,0,0,0,50.828,23.172Z"/>
+            <path fill="url(#paint3_linear)" d="M42.343,20.343a1,1,0,0,0,.72-.307,6.863,6.863,0,0,1,4.758-1.883,7.242,7.242,0,0,1,5.142,1.91,1,1,0,0,0,1.389-1.44,9.3,9.3,0,0,0-6.568-2.469,8.764,8.764,0,0,0-6.162,2.5,1,1,0,0,0,.721,1.694Z"/>
+        </g>
+    </g>
+    <text x="0" y="79" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by Tippawan Sookruay</text>
+    <text x="0" y="84" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun Project</text>
+</svg>
